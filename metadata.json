@@ -1,0 +1,5 @@
+{
+  "name": "質數點點看",
+  "description": "一個從1到1000的數字網格。點擊數字來看看它是不是質數！",
+  "requestFramePermissions": []
+}
